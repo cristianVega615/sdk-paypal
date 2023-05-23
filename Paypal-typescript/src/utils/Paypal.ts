@@ -44,7 +44,7 @@ export default async function PayPal() {
                   nombre: $nombre.value,
                   email: $email.value,
                 };
-                fetch("https://adogen.org.pe/email/", {
+                fetch("http:/locahost:PORT/email/", {
                   method: "POST",
                   headers: {
                     "Content-type": "application/json",
