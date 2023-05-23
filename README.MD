@@ -15,6 +15,10 @@
 En cada carpeta tanto como el frontend y el backend necesita descarga las dependencias con `npm install`.
 
 
+Este es el estado final de la aplicación 
+
+![Initial](https://github.com/cristianVega615/sdk-paypal/blob/main/screen/initial.png?raw=true)
+
 
 
 
